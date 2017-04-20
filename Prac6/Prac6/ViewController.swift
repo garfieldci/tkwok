@@ -1,7 +1,7 @@
 //
 //  ViewController.swift
 //  Prac6
-//
+//  Betty
 //  Created by BETTY KWOK on 20/04/2017.
 //  Copyright © 2017 BETTY KWOK. All rights reserved.
 //
